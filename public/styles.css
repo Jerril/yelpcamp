@@ -1,0 +1,7 @@
+.card-img-top.show{
+    height:500px;
+}
+
+#deleteBtn{
+    display: inline;
+}
